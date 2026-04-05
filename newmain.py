@@ -1,0 +1,1 @@
+print("This is another test file for the newmain.py script.")
